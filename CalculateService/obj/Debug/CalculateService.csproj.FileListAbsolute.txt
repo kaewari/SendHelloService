@@ -1,0 +1,8 @@
+C:\Users\sonho\source\repos\CalculateService\CalculateService\obj\Debug\CalculateService.ProjectInstaller.resources
+C:\Users\sonho\source\repos\CalculateService\CalculateService\obj\Debug\CalculateService.csproj.GenerateResource.cache
+C:\Users\sonho\source\repos\CalculateService\CalculateService\obj\Debug\CalculateService.csproj.CoreCompileInputs.cache
+C:\Users\sonho\source\repos\CalculateService\CalculateService\bin\Debug\CalculateService.exe.config
+C:\Users\sonho\source\repos\CalculateService\CalculateService\bin\Debug\CalculateService.exe
+C:\Users\sonho\source\repos\CalculateService\CalculateService\bin\Debug\CalculateService.pdb
+C:\Users\sonho\source\repos\CalculateService\CalculateService\obj\Debug\CalculateService.exe
+C:\Users\sonho\source\repos\CalculateService\CalculateService\obj\Debug\CalculateService.pdb
