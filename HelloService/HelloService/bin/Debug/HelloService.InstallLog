@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Users\sonho\source\repos\HelloService\HelloService\bin\Debug\HelloService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sonho\source\repos\HelloService\HelloService\bin\Debug\HelloService.InstallLog
+   assemblypath = C:\Users\sonho\source\repos\HelloService\HelloService\bin\Debug\HelloService.exe
+Installing service HelloService...
+Service HelloService has been successfully installed.
+Creating EventLog source HelloService in log Application...
+Committing assembly 'C:\Users\sonho\source\repos\HelloService\HelloService\bin\Debug\HelloService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sonho\source\repos\HelloService\HelloService\bin\Debug\HelloService.InstallLog
+   assemblypath = C:\Users\sonho\source\repos\HelloService\HelloService\bin\Debug\HelloService.exe

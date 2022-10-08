@@ -1,0 +1,17 @@
+C:\Users\sonho\source\repos\HelloService\HelloService\bin\Debug\HelloService.exe.config
+C:\Users\sonho\source\repos\HelloService\HelloService\bin\Debug\HelloService.exe
+C:\Users\sonho\source\repos\HelloService\HelloService\bin\Debug\HelloService.pdb
+C:\Users\sonho\source\repos\HelloService\HelloService\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\sonho\source\repos\HelloService\HelloService\bin\Debug\System.Security.AccessControl.dll
+C:\Users\sonho\source\repos\HelloService\HelloService\bin\Debug\System.Security.Permissions.dll
+C:\Users\sonho\source\repos\HelloService\HelloService\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\sonho\source\repos\HelloService\HelloService\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\sonho\source\repos\HelloService\HelloService\bin\Debug\System.Security.AccessControl.xml
+C:\Users\sonho\source\repos\HelloService\HelloService\bin\Debug\System.Security.Permissions.xml
+C:\Users\sonho\source\repos\HelloService\HelloService\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\sonho\source\repos\HelloService\HelloService\obj\Debug\HelloService.ProjectInstaller.resources
+C:\Users\sonho\source\repos\HelloService\HelloService\obj\Debug\HelloService.csproj.GenerateResource.cache
+C:\Users\sonho\source\repos\HelloService\HelloService\obj\Debug\HelloService.csproj.CoreCompileInputs.cache
+C:\Users\sonho\source\repos\HelloService\HelloService\obj\Debug\HelloService.csproj.CopyComplete
+C:\Users\sonho\source\repos\HelloService\HelloService\obj\Debug\HelloService.exe
+C:\Users\sonho\source\repos\HelloService\HelloService\obj\Debug\HelloService.pdb
